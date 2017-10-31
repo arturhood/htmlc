@@ -1,8 +1,6 @@
 # Specify id and class in HTML with CSS style selectors
 ### An HTML preprocessor that makes writing HTML more enjoyable than eating candy
 
-### Intended to be used with webpack and/or vue-loader
-
 ```htmlc
 	<div#title.box>    ---is preproccessed into--->    <div id='title' class='box'>
 ```
@@ -31,5 +29,5 @@ The ^ symbol used for links
 ```
 
 
-
+### Intended to be used with webpack and/or vue-loader
 ### Feel free to pull request/post issues
