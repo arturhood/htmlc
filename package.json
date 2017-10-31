@@ -1,0 +1,25 @@
+{
+  "name": "htmlc",
+  "version": "1.0.0",
+  "description": "A preprocessor to write html with css id/class syntax <div#title.red>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturhood/htmlc.git"
+  },
+  "keywords": [
+    "htmlc",
+    "htmlcss",
+    "htmlc-preprocessor",
+    "html-with-css-syntax"
+  ],
+  "author": "Artur I.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturhood/htmlc/issues"
+  },
+  "homepage": "https://github.com/arturhood/htmlc#readme"
+}
