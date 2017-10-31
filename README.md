@@ -1,5 +1,5 @@
-#An HTML Preprocessor: Specify id and class in HTML with CSS style selectors
-###Makes writing HTML more enjoyable than eating candy
+# An HTML Preprocessor: Specify id and class in HTML with CSS style selectors
+### Makes writing HTML more enjoyable than eating candy
 
 ```htmlc
 	<div#title.box>    ---is preproccessed into--->    <div id='title' class='box'>
@@ -30,4 +30,4 @@ The ^ symbol used for links
 
 
 
-###Feel free to pull request/post issues
+### Feel free to pull request/post issues
